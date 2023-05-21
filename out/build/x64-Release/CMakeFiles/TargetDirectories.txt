@@ -1,0 +1,5 @@
+C:/Users/nico/source/repos/cuda-pathtracer/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/nico/source/repos/cuda-pathtracer/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/nico/source/repos/cuda-pathtracer/out/build/x64-Release/cuda-pathtracer/CMakeFiles/cuda-pathtracer.dir
+C:/Users/nico/source/repos/cuda-pathtracer/out/build/x64-Release/cuda-pathtracer/CMakeFiles/edit_cache.dir
+C:/Users/nico/source/repos/cuda-pathtracer/out/build/x64-Release/cuda-pathtracer/CMakeFiles/rebuild_cache.dir
